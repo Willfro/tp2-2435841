@@ -7,8 +7,8 @@ Voici comment faire un changement sur ce projet, et l'envoyer sur GitHub.
 3. Appuyer sur les 3 petis points et Push 
 
 ![Screen1](/tp2-2435841/images_README/screen5.png)
-![Screen2](/tp2-2435841//images_README/screen6.png)
-![Screen3](/tp2-2435841//images_README/screen7.png)
+![Screen2](/tp2-2435841/images_README/screen6.png)
+![Screen3](/tp2-2435841/images_README/screen7.png)
 
 ## Contributeurs
 - William Fawns - Auteur principal 
